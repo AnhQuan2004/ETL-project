@@ -1,0 +1,18 @@
+04/01/2024 11:26:42 - ETL process started
+04/01/2024 11:26:46 - Data extracted from the website
+04/01/2024 11:26:46 - Data transform completed. Loading to CSV
+04/01/2024 11:26:46 - Loading to CSV completed. Loading to DB
+04/01/2024 11:26:46 - Loading to DB completed. Running query
+04/01/2024 11:26:46 - ETL process completed
+04/01/2024 11:27:47 - ETL process started
+04/01/2024 11:27:51 - Data extracted from the website
+04/01/2024 11:27:51 - Data transform completed. Loading to CSV
+04/01/2024 11:27:51 - Loading to CSV completed. Loading to DB
+04/01/2024 11:27:51 - Loading to DB completed. Running query
+04/01/2024 11:27:51 - ETL process completed
+04/01/2024 11:34:59 - ETL process started
+04/01/2024 11:35:03 - Data extracted from the website
+04/01/2024 11:35:03 - Data transform completed. Loading to CSV
+04/01/2024 11:35:03 - Loading to CSV completed. Loading to DB
+04/01/2024 11:35:03 - Loading to DB completed. Running query
+04/01/2024 11:35:03 - ETL process completed
